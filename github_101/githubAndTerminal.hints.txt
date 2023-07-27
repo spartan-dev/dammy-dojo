@@ -1,0 +1,16 @@
+GUI = graphical uer interface
+TERMINAL
+clear = limpia la consola 
+ls = listado de archivos
+cd = change directory 
+mkdir = make a directory
+touch = crear un archivo de lo que sea 
+rm -rf = para borrar un archivo
+
+GITHUB
+
+git init = iniciar la config de github
+git status = para preguntarle a github qye paso 
+git add = para agregar los archivos que modifique le puedes agregar un punto para todo o arhivo por achivo
+git commit -m 'texto para darme referencia' = agrega un encabezado a mi bitacora y me da una pista 
+git push origin <nombre de mi rama> =  empuja los cambios a mi repositorio desde mi local 
